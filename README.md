@@ -10,7 +10,7 @@
 
 ## Introduction
 
-This project is an example of https://github.com/phpmentors-jp/workflower  BPMN 2.0 workflow engine and Laravel 5.8 Framework integration.
+This project is an example of BPMN 2.0 workflow engine and Laravel 5.8 Framework integration.
 
 The bpmn file can be viewed and edited with comunda modeler. The service tasks are not supported by the visual editor but you can edit directly in the source code.
 
